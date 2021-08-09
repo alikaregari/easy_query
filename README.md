@@ -1,8 +1,10 @@
 - 👋 Hi, I’m @alikaregari
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+step 1:
+include query model in your model
+step 2:
+extend Query model in your model file
+stp 3:
+enjoy command query :)
 
 <!---
 alikaregari/alikaregari is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
