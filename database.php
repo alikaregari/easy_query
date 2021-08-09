@@ -2,8 +2,6 @@
 /**
  * Created by PhpStorm.
  * User: Ali Kargari
- * Date: 12/27/2018
- * Time: 9:37 PM
  */
 class Database
 {
@@ -12,7 +10,7 @@ class Database
     private $username;
     private $password;
     private $database;
-    public function __construct($server="localhost",$username="root",$password="",$database="ejirir_jahadifarjavani")
+    public function __construct($server="localhost",$username="root",$password="",$database="")
     {
         $this->server=$server;
         $this->username=$username;
