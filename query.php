@@ -1,10 +1,4 @@
 <?php
-/**
- * Created by PhpStorm.
- * User: Ali Kargari
- * Date: 12/28/2018
- * Time: 12:42 PM
- */
 require_once "database.php";
 class Query extends Database
 {
